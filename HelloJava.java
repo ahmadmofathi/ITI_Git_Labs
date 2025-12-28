@@ -1,4 +1,4 @@
-class Hello1 {
+class HelloJava {
     public static void HelloWorld() {
         System.out.println("Hello, World!");
     }
