@@ -1,2 +1,0 @@
-Hey Testing before Ignore
-Writing after .gitignore
